@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactCoronaWebsite/static/css/main.94df9088.chunk.css",
+    "main.js": "/reactCoronaWebsite/static/js/main.40e8391a.chunk.js",
+    "main.js.map": "/reactCoronaWebsite/static/js/main.40e8391a.chunk.js.map",
+    "runtime-main.js": "/reactCoronaWebsite/static/js/runtime-main.6c0d6224.js",
+    "runtime-main.js.map": "/reactCoronaWebsite/static/js/runtime-main.6c0d6224.js.map",
+    "static/css/2.ea6b7726.chunk.css": "/reactCoronaWebsite/static/css/2.ea6b7726.chunk.css",
+    "static/js/2.c376fb89.chunk.js": "/reactCoronaWebsite/static/js/2.c376fb89.chunk.js",
+    "static/js/2.c376fb89.chunk.js.map": "/reactCoronaWebsite/static/js/2.c376fb89.chunk.js.map",
+    "index.html": "/reactCoronaWebsite/index.html",
+    "precache-manifest.4bcaaf3f92a9e499dfa3dcde84372076.js": "/reactCoronaWebsite/precache-manifest.4bcaaf3f92a9e499dfa3dcde84372076.js",
+    "service-worker.js": "/reactCoronaWebsite/service-worker.js",
+    "static/css/2.ea6b7726.chunk.css.map": "/reactCoronaWebsite/static/css/2.ea6b7726.chunk.css.map",
+    "static/css/main.94df9088.chunk.css.map": "/reactCoronaWebsite/static/css/main.94df9088.chunk.css.map",
+    "static/js/2.c376fb89.chunk.js.LICENSE.txt": "/reactCoronaWebsite/static/js/2.c376fb89.chunk.js.LICENSE.txt",
+    "static/media/lep1.jpg": "/reactCoronaWebsite/static/media/lep1.2fe2b720.jpg",
+    "static/media/lep2.jpg": "/reactCoronaWebsite/static/media/lep2.06713574.jpg",
+    "static/media/stulep.jpg": "/reactCoronaWebsite/static/media/stulep.9468a22c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c0d6224.js",
+    "static/css/2.ea6b7726.chunk.css",
+    "static/js/2.c376fb89.chunk.js",
+    "static/css/main.94df9088.chunk.css",
+    "static/js/main.40e8391a.chunk.js"
+  ]
+}
